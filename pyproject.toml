@@ -1,0 +1,10 @@
+[project]
+name = "py-image-watermark"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pillow>=11.3.0",
+    "shutill>=3.1",
+]
